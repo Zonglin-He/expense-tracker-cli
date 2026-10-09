@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+expenses.db
+expenses.db-shm
+expenses.db-wal
